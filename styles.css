@@ -1,0 +1,31 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+div, span {
+    display: block;
+    margin: 10px;
+    border: 1px dashed red;
+}
+
+span {
+    background-color: aqua;
+}
+
+body {
+    background-color: white;  
+    height: 100vh;      
+}
+
+div.span {
+    font-size: 18px;
+}
+
+div div {
+    font-size: 9px;
+}
+
+form {
+    width: 400px;
+}
